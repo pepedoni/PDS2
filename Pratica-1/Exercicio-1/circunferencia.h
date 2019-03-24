@@ -1,5 +1,5 @@
-#ifndef PDS2_CIRC_H
-#define PDS2_CIRC_H
+#ifndef CIRC_H
+#define CIRC_H
 
 struct Circunferencia {
     
